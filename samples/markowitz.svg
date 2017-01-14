@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+id="canvas" width="100%" height="100%"
+viewBox="0 0 1000 1000">
+<!--
+Iteration: 1. Mean = 14.6%. Variance = 8.54%. Sigma = 29.22%
+Sec1 = 0% Sec2 = 100% Sec3 = 0% 
+Iteration: 2. Mean = 13.2%. Variance = 2.531%. Sigma = 15.91%
+Sec1 = 0% Sec2 = 22.5% Sec3 = 77.5% 
+Iteration: 3. Mean = 7.247%. Variance = 1.493%. Sigma = 12.22%
+Sec1 = 84.14% Sec2 = 0% Sec3 = 15.86% 
+Iteration: 4. Mean = 6.246%. Variance = 1.46%. Sigma = 12.08%
+Sec1 = 99.31% Sec2 = 0% Sec3 = 0.6897% 
+-->
+<svg width="50%" x="0" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+<path d="M 100 920 L 900 920"
+fill="none" stroke="black" stroke-width="5"/>
+<text x="100" y="940"  color="black" font-size="24" text-anchor="middle">
+ 10.0</text>
+<text x="300" y="940"  color="black" font-size="24" text-anchor="middle">
+ 15.0</text>
+<text x="500" y="940"  color="black" font-size="24" text-anchor="middle">
+ 20.0</text>
+<text x="700" y="940"  color="black" font-size="24" text-anchor="middle">
+ 25.0</text>
+<text x="900" y="940"  color="black" font-size="24" text-anchor="middle">
+ 30.0</text>
+<path d="M 100 920 L 100 80"
+fill="none" stroke="black" stroke-width="5"/>
+<text x="100" y="920"  color="black" font-size="24" text-anchor="end">
+  5.0</text>
+<text x="100" y="710"  color="black" font-size="24" text-anchor="end">
+  7.5</text>
+<text x="100" y="500"  color="black" font-size="24" text-anchor="end">
+ 10.0</text>
+<text x="100" y="290"  color="black" font-size="24" text-anchor="end">
+ 12.5</text>
+<text x="100" y="80"  color="black" font-size="24" text-anchor="end">
+ 15.0</text>
+<text x="500" y="40"  color="black" font-size="48" text-anchor="middle">
+The Efficient Frontier</text>
+<text x="500" y="960"  color="black" font-size="24">
+Standard Deviation %</text>
+<text x="20" y="500"  color="black" font-size="24" writing-mode="tb" text-anchor="middle">
+Mean %</text>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 868.9 113.6 L 848.6 116.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 848.6 116.6 L 828.4 119.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 828.4 119.6 L 808.4 122.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 808.4 122.6 L 788.6 125.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 788.6 125.6 L 769 128.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 769 128.6 L 749.5 131.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 749.5 131.6 L 730.3 134.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 730.3 134.6 L 711.3 137.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 711.3 137.6 L 692.5 140.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 692.5 140.6 L 673.9 143.6"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 673.9 143.6 L 655.6 146.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 655.6 146.7 L 637.6 149.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 637.6 149.7 L 619.9 152.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 619.9 152.7 L 602.5 155.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 602.5 155.7 L 585.4 158.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 585.4 158.7 L 568.6 161.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 568.6 161.7 L 552.3 164.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 552.3 164.7 L 536.3 167.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 536.3 167.7 L 520.7 170.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 520.7 170.7 L 505.5 173.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 505.5 173.7 L 490.8 176.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 490.8 176.7 L 476.6 179.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 476.6 179.7 L 462.9 182.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 462.9 182.7 L 449.7 185.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 449.7 185.7 L 437.1 188.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 437.1 188.7 L 425.1 191.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 425.1 191.7 L 413.7 194.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 413.7 194.7 L 403 197.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 403 197.7 L 392.9 200.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 392.9 200.7 L 383.6 203.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 383.6 203.7 L 375 206.7"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 375 206.7 L 367.2 209.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 367.2 209.8 L 360.2 212.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 360.2 212.8 L 354 215.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 354 215.8 L 348.7 218.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 348.7 218.8 L 344.3 221.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 344.3 221.8 L 340.7 224.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 340.7 224.8 L 338.1 227.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 338.1 227.8 L 336.3 230.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 336.3 230.8 L 317.6 276.3"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 317.6 276.3 L 299.6 321.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 299.6 321.8 L 282.5 367.3"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 282.5 367.3 L 266.4 412.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 266.4 412.8 L 251.4 458.3"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 251.4 458.3 L 237.6 503.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 237.6 503.8 L 225 549.3"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 225 549.3 L 213.7 594.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 213.7 594.8 L 203.9 640.3"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 203.9 640.3 L 195.5 685.8"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 195.5 685.8 L 188.8 731.3"
+fill="none" stroke="red" stroke-width="1"/>
+mean1...
+...mean2
+mean2...
+...mean2
+<path d="M 188.8 731.3 L 183.3 815.4"
+fill="none" stroke="red" stroke-width="1"/>
+
+</svg>
+<svg width="50%" x="500" viewBox="0 0 1000 1000" preserveAspectRatio="none">
+<path d="M 100 920 L 900 920"
+fill="none" stroke="black" stroke-width="5"/>
+<text x="100" y="940"  color="black" font-size="24" text-anchor="middle">
+ 10.0</text>
+<text x="300" y="940"  color="black" font-size="24" text-anchor="middle">
+ 15.0</text>
+<text x="500" y="940"  color="black" font-size="24" text-anchor="middle">
+ 20.0</text>
+<text x="700" y="940"  color="black" font-size="24" text-anchor="middle">
+ 25.0</text>
+<text x="900" y="940"  color="black" font-size="24" text-anchor="middle">
+ 30.0</text>
+<path d="M 100 920 L 100 80"
+fill="none" stroke="black" stroke-width="5"/>
+<text x="100" y="920"  color="black" font-size="24" text-anchor="end">
+  0.0</text>
+<text x="100" y="710"  color="black" font-size="24" text-anchor="end">
+ 25.0</text>
+<text x="100" y="500"  color="black" font-size="24" text-anchor="end">
+ 50.0</text>
+<text x="100" y="290"  color="black" font-size="24" text-anchor="end">
+ 75.0</text>
+<text x="100" y="80"  color="black" font-size="24" text-anchor="end">
+100.0</text>
+<text x="500" y="40"  color="black" font-size="48" text-anchor="middle">
+Composition of Efficient Portfolios</text>
+<text x="500" y="960"  color="black" font-size="24">
+Standard Deviation %</text>
+<text x="20" y="500"  color="black" font-size="24" writing-mode="tb" text-anchor="middle">
+Composition %</text>
+<path d="M 183.3 920 L 868.9 920 868.9 921 336.3 921 188.8 214.2 183.3 86.79 z"
+fill="pink" stroke="black" stroke-width="1"/>
+<text x="183.3" y="502.9"  color="black" font-size="24">
+1</text>
+<path d="M 183.3 85.79 L 188.8 213.2 336.3 920 868.9 920 868.9 81 336.3 732 188.8 214.2 183.3 86.79 z"
+fill="yellow" stroke="black" stroke-width="1"/>
+<text x="848.9" y="500"  color="black" font-size="24">
+2</text>
+<path d="M 183.3 85.79 L 188.8 213.2 336.3 731 868.9 80 868.9 81 336.3 81 188.8 81 183.3 81 z"
+fill="cyan" stroke="black" stroke-width="1"/>
+<text x="336.3" y="405.5"  color="black" font-size="24">
+3</text>
+
+</svg>
+
+</svg>

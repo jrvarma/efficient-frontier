@@ -1,0 +1,8 @@
+Iteration: 1. Mean = 14.6%. Variance = 8.54%. Sigma = 29.22%
+Sec1 = 0% Sec2 = 100% Sec3 = 0% 
+Iteration: 2. Mean = 13.2%. Variance = 2.531%. Sigma = 15.91%
+Sec1 = 0% Sec2 = 22.5% Sec3 = 77.5% 
+Iteration: 3. Mean = 7.247%. Variance = 1.493%. Sigma = 12.22%
+Sec1 = 84.14% Sec2 = 0% Sec3 = 15.86% 
+Iteration: 4. Mean = 6.246%. Variance = 1.46%. Sigma = 12.08%
+Sec1 = 99.31% Sec2 = 0% Sec3 = 0.6897% 

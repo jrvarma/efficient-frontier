@@ -1,0 +1,12 @@
+Iteration: 1. Mean = 5.896%. Variance = 15.32%. Sigma = 39.14%
+Sec1 = 100% Sec2 = 0% Sec3 = 0% Sec4 = 0% 
+Iteration: 2. Mean = 5.798%. Variance = 9.889%. Sigma = 31.45%
+Sec1 = 68.23% Sec2 = 0% Sec3 = 0% Sec4 = 31.77% 
+Iteration: 3. Mean = 5.292%. Variance = 8.434%. Sigma = 29.04%
+Sec1 = 58.86% Sec2 = 0% Sec3 = 15.03% Sec4 = 26.1% 
+Iteration: 4. Mean = -0.1634%. Variance = 2.213%. Sigma = 14.87%
+Sec1 = 6.625% Sec2 = 92.49% Sec3 = 0.8823% Sec4 = 0% 
+Iteration: 5. Mean = -0.3164%. Variance = 2.183%. Sigma = 14.78%
+Sec1 = 4.689% Sec2 = 95.31% Sec3 = 0% Sec4 = 0% 
+Iteration: 6. Mean = -0.5543%. Variance = 2.166%. Sigma = 14.72%
+Sec1 = 1.039% Sec2 = 98.96% Sec3 = 0% Sec4 = 0% 
